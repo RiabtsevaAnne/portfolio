@@ -115,5 +115,5 @@ Run with Firebase backend.
 
 # Contact Info:
 
-- Email: kovalyshyn.alex@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+- Email: hannariabtseva05@gmail.com
+- LinkedIn: [Anne Riabtseva](https://www.linkedin.com/in/ганна-рябцева-400a48309/)
