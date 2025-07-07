@@ -44,7 +44,7 @@ Straight Ur Back is an application that reminds you to keep your back straight. 
 # [Front-end Project](https://github.com/RiabtsevaAnne/project.git)
 <p align="left"> <a href="https://github.com/RiabtsevaAnne/project.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-The project I did when I took the Front End course
+The project I did when I took the Front End course. It helped me to better understand the HTML and to be able to make small websites on my own.
 
 <p align="center">
 <a href="https://ibb.co/Hp1n1cKh"><img src="https://i.ibb.co/YTYpY5N0/photo-2025-07-07-15-49-13.jpg" alt="photo-2025-07-07-15-49-13" border="0"></a>
