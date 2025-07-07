@@ -41,13 +41,13 @@ Straight Ur Back is an application that reminds you to keep your back straight. 
 
 </p>
 
-# [TakeHome Project](https://github.com/skovalysh/take-home-project)
-<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Front-end Project](https://github.com/RiabtsevaAnne/project.git)
+<p align="left"> <a href="https://github.com/RiabtsevaAnne/project.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-Take-home project for one of the companies that I applied for a job.
+The project I did when I took the Front End course
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/92813310-ce888c80-f375-11ea-9f74-11e9f95f5596.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92813328-d5170400-f375-11ea-87dc-fc54568e07f3.gif" width="230"  title="ARKit Face Tracking feature">
+<img src="<a href="https://ibb.co/Hp1n1cKh"><img src="https://i.ibb.co/YTYpY5N0/photo-2025-07-07-15-49-13.jpg" alt="photo-2025-07-07-15-49-13" border="0"></a>" width="230">
 </p>
 
 # [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
