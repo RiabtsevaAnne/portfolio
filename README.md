@@ -57,7 +57,7 @@ A simple game “Snake” is programmed in Python.
 It moves, catches “food” within a certain board and grows at the same time.
 
 <p align="center">
-<img src="<https://postimages.org/" width="230" title="Snake Game">
+<img src="<https://i.postimg.cc/TwHK9wjP/photo-2025-07-10-20-22-24.jpg" width="230" title="Snake Game">
 </p>
 
 # [Twitter clone](https://github.com/skovalysh/SkovTwitter)
