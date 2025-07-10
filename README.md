@@ -50,26 +50,14 @@ The project I did when I took the Front End course. It helped me to better under
 <a href="https://ibb.co/Hp1n1cKh"><img src="https://i.ibb.co/YTYpY5N0/photo-2025-07-07-15-49-13.jpg" alt="photo-2025-07-07-15-49-13" border="0"></a>
 </p>
 
-# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
-<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Snake Game](https://github.com/RiabtsevaAnne/game1.git)
+<p align="left"> <a href="https://github.com/RiabtsevaAnne/game1.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-GitHub Profiles is an MVC practice project.
-GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
-The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
-
-* Implemented programmatically without the use of storyboards.
-* No libraries used.
-* Support for light & dark mode. 
-* Model-View-Controller architecture.
-* Custom UIAlerts.
-* Use DiffableDataSource.
-* Implemented pagination on the search screen.
-* Image caching.
-* Use UserDefaults for saving favorite users.
-* REST API.
+A simple game “Snake” is programmed in Python. 
+It moves, catches “food” within a certain board and grows at the same time.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863341-042d6e00-c90f-11ea-96c9-a65b33884e89.jpg" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863343-07285e80-c90f-11ea-820a-86d43226f652.jpg" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863346-08598b80-c90f-11ea-9c24-d60536cf5220.jpg" width="230" title="GitHub Profiles">
+<img src="file:///C:/Users/Ganna/Downloads/photo_2025-07-10_20-22-24.jpg.html" width="230" title="Snake Game">
 </p>
 
 # [Twitter clone](https://github.com/skovalysh/SkovTwitter)
