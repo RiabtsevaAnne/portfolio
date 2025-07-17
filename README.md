@@ -60,23 +60,15 @@ It moves, catches “food” within a certain board and grows at the same time.
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/TwHK9wjP/photo-2025-07-10-20-22-24.jpg' border='0' alt='photo-2025-07-10-20-22-24'/></a><br />
 </p>
 
-# [Twitter clone](https://github.com/skovalysh/SkovTwitter)
-<p align="left"> <a href="https://github.com/skovalysh/SkovTwitter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Minesweeper](https://github.com/RiabtsevaAnne/game2.git)
+<p align="left"> <a href="https://github.com/RiabtsevaAnne/game2.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-Twitter clone is an MVVM (no RxSwift) practice project.
-Twitter clone is a fully functional clone of the Twitter application. Users can sign up / sign in. Post a tweet and add a comment. Follow and unfollow users. Receive notifications about new mentions and tweets in the "Notification tab".
-Run with Firebase backend.
+The game ‘Minesweeper’ is programmed in Java in ‘Processing’.
 
-* Implemented Firebase Auth
-* Communicate with Firebase database (read\write)
-* Monitor events in a database
-* Upload Images to Firebase storage
-* Fully programmatically UI (no Interface Builder)
-* MVVM architecture
-* Dynamically sized collection view cells
+At the beginning of the game, a playing field with closed squares is displayed. The scoreboard shows the total number of unmarked mines and the game time. When the player makes the first click on one of the squares, several empty squares and squares with numbers open. The number on a square indicates the number of mines around it, i.e. in a 3×3 area centred on that square. Using hints, the player determines the exact location of the mines by marking them with a flag and opening cells without mines. Having flagged all the mines around a number square, the player can open all the remaining squares around it by clicking on that number. All cells without mines must be opened to win. If a player opens a cell with a mine, the game ends in defeat.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863810-73f22780-c914-11ea-9f27-e2d92d2f032c.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863809-705ea080-c914-11ea-8417-e7b221657ad5.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863813-75235480-c914-11ea-837a-5e496f715eea.jpg" width="230" title="Twitter clone"><img src="https://user-images.githubusercontent.com/33416429/87863812-748abe00-c914-11ea-87a6-fc30bbb47d51.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863811-73f22780-c914-11ea-92ce-ea242c6ae8d8.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863814-75bbeb00-c914-11ea-9066-e6705263a47d.jpg" width="230"  title="Twitter clone">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HLbWnDSp/photo-2025-07-17-18-52-21.jpg" alt="photo-2025-07-17-18-52-21" border="0">
 </p>
 
 # Firebase auth + Transition animation practice
