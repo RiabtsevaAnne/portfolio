@@ -6,8 +6,7 @@ During my student days, I actively participated in scientific conferences at the
 Visual information is more engaging and easier to digest. With the help of visual charts and dashboards, even complex data sets can be made understandable.
 
 <p align="center">
-<a href="https://ibb.co/9krhDYdp"><img src="https://i.ibb.co/nNLBGkKw/photo-2025-08-05-14-32-22.jpg" alt="photo-2025-08-05-14-32-22" border="0"></a>
-<a href="https://ibb.co/3m1jgh8J"><img src="https://i.ibb.co/Kx6fTyQ1/photo-2025-08-05-14-32-58.jpg" alt="photo-2025-08-05-14-32-58" border="0"></a>
+<a href="https://ibb.co/9krhDYdp"><img src="https://i.ibb.co/nNLBGkKw/photo-2025-08-05-14-32-22.jpg" alt="photo-2025-08-05-14-32-22" border="0"></a><a href="https://ibb.co/3m1jgh8J"><img src="https://i.ibb.co/Kx6fTyQ1/photo-2025-08-05-14-32-58.jpg" alt="photo-2025-08-05-14-32-58" border="0"></a>
 </p>
 
 # ZNO Test
