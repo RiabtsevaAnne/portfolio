@@ -3,6 +3,7 @@
 # [Dashboard](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
 
 During my student days, I actively participated in scientific conferences at the university. For the scientific work "VISUALIZATION AS AN EFFECTIVE DATA ANALYTICS TOOL", I developed a dashboard that clearly demonstrates the importance of visualizing data, which improves perception.
+
 Visual information is more engaging and easier to digest. With the help of visual charts and dashboards, even complex data sets can be made understandable.
 
 <p align="center">
