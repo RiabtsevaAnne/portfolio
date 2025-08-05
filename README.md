@@ -1,15 +1,13 @@
 <a href="https://pdfhost.io/v/.J68t4WH._Microsoft_Word_CV_Alex_Kovalyshyndocx.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:hannariabtseva05@gmail.com"><img src="https://img.shields.io/badge/Email-Anne-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ганна-рябцева-400a48309/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anne%20Riabtseva-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-# [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
-<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
-</p>
+# [Dashboard](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
 
-* PUMB Online - A native iOS online banking app which helps people to manage their finance
-* PUMB Online has more than 1 000 000 users, #5 finance app in Ukrainian AppStore, rating 4.8. Crash free users - 99.89 %
+During my student days, I actively participated in scientific conferences at the university. For the scientific work "VISUALIZATION AS AN EFFECTIVE DATA ANALYTICS TOOL", I developed a dashboard that clearly demonstrates the importance of visualizing data, which improves perception.
+Visual information is more engaging and easier to digest. With the help of visual charts and dashboards, even complex data sets can be made understandable.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/93138739-516e5780-f694-11ea-8578-3f16db1bc263.png" width="930" title="PUMBOnline">
-
+<a href="https://ibb.co/9krhDYdp"><img src="https://i.ibb.co/nNLBGkKw/photo-2025-08-05-14-32-22.jpg" alt="photo-2025-08-05-14-32-22" border="0"></a>
+<a href="https://ibb.co/3m1jgh8J"><img src="https://i.ibb.co/Kx6fTyQ1/photo-2025-08-05-14-32-58.jpg" alt="photo-2025-08-05-14-32-58" border="0"></a>
 </p>
 
 # ZNO Test
