@@ -10,35 +10,6 @@ Visual information is more engaging and easier to digest. With the help of visua
 <a href="https://ibb.co/9krhDYdp"><img src="https://i.ibb.co/nNLBGkKw/photo-2025-08-05-14-32-22.jpg" alt="photo-2025-08-05-14-32-22" border="0"></a><a href="https://ibb.co/3m1jgh8J"><img src="https://i.ibb.co/Kx6fTyQ1/photo-2025-08-05-14-32-58.jpg" alt="photo-2025-08-05-14-32-58" border="0"></a>
 </p>
 
-# ZNO Test
-ZNO Test is my pet-project that im working on right now. It is an application for Ukrainian school students that allow practicing for the ZNO test (analog of SAT (Standardized Aptitude Tests) or GRE (Graduate Record Examination) in the USA).
-
-* MVP (Model-View-Presenter) architecture
-* Realm database
-* Fully programmatically UI 
-* Firebase backend
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863994-23c89480-c917-11ea-8994-78a559d37c37.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863992-232ffe00-c917-11ea-93d8-f5e28269aef2.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863988-1f03e080-c917-11ea-862b-cbc1debff210.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863993-232ffe00-c917-11ea-92d1-85e14db86161.jpg" width="230" title="ZNO Test">
-
-</p>
-
-# [Straight Ur Back](https://apps.apple.com/us/app/id1531009911) 
-<p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
-</p>
-Straight Ur Back is an application that reminds you to keep your back straight. You can choose a time interval and how often you want to receive notifications. 
-
-* MVP (Model-View-Presenter) architecture
-* Firebase Analytics
-* UserDefaults
-* Local Notifications
-* Fully programmatically UI 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/92800949-05f13c00-f36a-11ea-8d58-513b0d759c96.jpg" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92800926-02f64b80-f36a-11ea-9213-904f52359a83.jpg" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92800943-0558a580-f36a-11ea-94b6-15d054a5e51f.jpg" width="230" title="StraightUrBack">
-
-</p>
-
 # [Front-end Project](https://github.com/RiabtsevaAnne/project.git)
 <p align="left"> <a href="https://github.com/RiabtsevaAnne/project.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
@@ -68,27 +39,7 @@ At the beginning of the game, a playing field with closed squares is displayed. 
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HLbWnDSp/photo-2025-07-17-18-52-21.jpg" alt="photo-2025-07-17-18-52-21" border="0">
 </p>
-
-# Firebase auth + Transition animation practice
-
-* Implemented Firebase Auth
-* Background gradient animation
-* Transition animation
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87865979-5b900600-c930-11ea-988d-6e075526e8b9.gif" width="230" title="Transition animation practice">
-</p>
-
-# [ARKit + Face Tracking practice](https://github.com/skovalysh/FaceMoji)
-<p align="left"> <a href="https://github.com/skovalysh/FaceMoji"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-* ARKit Face Tracking feature
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/88236681-64cfea00-cc32-11ea-8dac-5013d1e660dc.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/88236534-16225000-cc32-11ea-8079-93716c06e8c3.gif" width="230"  title="ARKit Face Tracking feature">
-</p>
-
+  
 ## Thanks for stopping by!
 
 # Contact Info:
